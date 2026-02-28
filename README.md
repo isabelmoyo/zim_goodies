@@ -1,6 +1,6 @@
 # ZimGoodies — Business Tracker
 
-ZimGoodies is a small retail business run by three equal partners — Isabel, Fra, and Rumbi. They source stock from Zimbabwe (paying costs in USD) and sell in Tanzania (collecting revenue in Tanzanian Shillings, TZS). This Google Sheets + Apps Script tool tracks their daily sales, stock, debts, expenses, and partner profit splits — all from a shared spreadsheet that any partner can access on their phone or computer. No technical knowledge required: just open the sheet, fill in data, and press a button to get a WhatsApp-ready daily report.
+ZimGoodies is a small retail business run by three equal partners (33.3% share each). Stock is sourced from Zimbabwe (costs in USD) and sold in Tanzania (revenue in Tanzanian Shillings, TZS). This Google Sheets + Apps Script tool tracks daily sales, stock, debts, expenses, and partner profit splits — all from a shared spreadsheet accessible on any phone or computer. No technical knowledge required: just open the sheet, fill in data, and press a button to get a WhatsApp-ready daily report.
 
 ---
 
@@ -35,7 +35,7 @@ ZimGoodies is a small retail business run by three equal partners — Isabel, Fr
 
 11. Go back to your spreadsheet tab. After a few seconds, all 8 sheets will be created and a green message will appear at the bottom saying **"✅ ZimGoodies is ready!"**
 
-12. Click **Share** (top right of the spreadsheet) and add Isabel, Fra, and Rumbi's email addresses as **Editors** so they can all use it.
+12. Click **Share** (top right of the spreadsheet) and add all partners' email addresses as **Editors** so everyone can use it.
 
 13. **Bookmark** the spreadsheet URL in your phone browser so you can open it quickly each day.
 
@@ -124,16 +124,6 @@ Click **🛒 ZimGoodies** in the menu → **🔄 Refresh Dashboard**. The DASHBO
 | EXPENSES | All running costs (TZS or USD) |
 | PARTNER ACCOUNT | Partner withdrawals and contributions |
 | STOCK RECEIVED | Purchase log when new stock arrives |
-
----
-
-## Partners
-
-- Isabel
-- Fra
-- Rumbi
-
-Equal profit share: 33.3% each.
 
 ---
 

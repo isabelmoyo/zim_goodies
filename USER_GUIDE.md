@@ -1,6 +1,5 @@
 # ZimGoodies — User Guide
 
-For Isabel, Fra, and Rumbi.
 This guide covers everything you need to run the business tracker day-to-day.
 No technical knowledge needed.
 
@@ -306,5 +305,5 @@ Check that the sales in SALES LOG have today's date in the Date column in the fo
 
 ---
 
-*ZimGoodies business tracker — built for Isabel, Fra & Rumbi.*
+*ZimGoodies business tracker.*
 *GitHub: [https://github.com/isabelmoyo/zim_goodies](https://github.com/isabelmoyo/zim_goodies)*
