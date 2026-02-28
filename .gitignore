@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Vim swap files
+*.swp
+*.swo
+
+# Apps Script generated manifest (each environment has its own)
+appsscript.json
+
+# Node / CLASP local config
+node_modules/
+.clasp.json
+
+# Editor directories
+.vscode/
+.idea/
+
+# Logs
+*.log
